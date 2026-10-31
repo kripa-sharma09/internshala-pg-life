@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#edf4f9"/><rect x="360" y="160" width="480" height="380" rx="18" fill="#d4e5f1"/>
+<path d="M300 300 L600 100 L900 300" fill="none" stroke="#1769aa" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="450" y="320" width="120" height="220" rx="8" fill="#fff"/><rect x="630" y="320" width="120" height="100" rx="8" fill="#fff"/>
+<text x="600" y="620" font-family="Arial,sans-serif" font-size="32" fill="#526173" text-anchor="middle">Replace with your PG photo</text></svg>

@@ -1,0 +1,20 @@
+# Private database configuration
+/includes/config.php
+/.env
+/.env.*
+
+# User-uploaded profile photos
+/uploads/profile/*
+!/uploads/profile/.gitkeep
+
+# Local database backups
+/pglife_backup.sql
+*.sql.zip
+
+# Project backup ZIP
+/pglife_final.zip
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
