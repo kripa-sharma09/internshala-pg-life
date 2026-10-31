@@ -1,6 +1,12 @@
-# PG Life (Internshala-style training project)
+# PG Life – Web Development Project
 
-A beginner-friendly PHP + MySQL starter project for XAMPP. This is a clean implementation of common PG Life features, not a copy of Internshala's private course source code. Sample property details and prices are illustrative.
+PG Life is a web development project developed as part of my **Internshala Web Development training**.
+
+The project focuses on helping students and working professionals explore paying guest (PG) accommodations, view property details, compare rents, and save their favourite properties.
+
+I developed and customized this project using PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript, while working with the project assets and database.
+
+This repository showcases my learning, implementation, customization, and practical experience gained during the course.
 
 ## Features
 - Home page with city search and popular properties
